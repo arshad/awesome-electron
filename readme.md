@@ -27,6 +27,7 @@ Some good apps written with Electron.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
+- [Giphytron](https://github.com/arshad/Giphytron) - Menu bar app for Giphy.com
 
 
 ### Closed Source
